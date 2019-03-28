@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="design_1_axi_gpio_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_clk_wiz_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_objectbuffer_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_objectbuffer_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_proc_sys_reset_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_proc_sys_reset_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_processing_system7_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rgb2tmds_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_rgb2tmds_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_smartconnect_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_smartconnect_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_vtg_0_0_synth_1" LaunchDir="F:/FPGA-Proje/Proje_new/breakout_game/breakout_game.runs/design_1_vtg_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+

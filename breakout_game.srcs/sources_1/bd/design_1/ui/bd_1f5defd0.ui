@@ -1,0 +1,39 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace port btns_4bits -pg 1 -y 60 -defaultsOSRD
+preplace port DDR -pg 1 -y 20 -defaultsOSRD
+preplace port hdmi_out_0 -pg 1 -y 80 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y 40 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 1 -y 1140 -defaultsOSRD
+preplace inst objectbuffer_0 -pg 1 -lvl 1 -y 370 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 1 -y 560 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 1 -y 80 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -y 210 -defaultsOSRD
+preplace inst vtg_0 -pg 1 -lvl 2 -y 200 -defaultsOSRD
+preplace inst rgb2tmds_0 -pg 1 -lvl 1 -y 950 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -y 740 -defaultsOSRD
+preplace netloc processing_system7_0_DDR 1 1 2 640 20 NJ
+preplace netloc smartconnect_0_M01_AXI 1 0 2 80 1240 560
+preplace netloc clk_wiz_0_pixelclock 1 0 2 100 1280 670
+preplace netloc vtg_0_vsync 1 0 3 60 1360 NJ 1360 910
+preplace netloc objectbuffer_0_rgb 1 0 2 110 1300 620
+preplace netloc clk_wiz_0_serialclock 1 0 2 130 1290 630
+preplace netloc processing_system7_0_M_AXI_GP0 1 0 2 160 1220 580
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 2 30 1310 610
+preplace netloc vtg_0_pixel_x 1 0 3 40 1330 NJ 1330 890
+preplace netloc rgb2tmds_0_hdmi_out 1 1 2 660J 90 920
+preplace netloc smartconnect_0_M00_AXI 1 0 2 120 1230 570
+preplace netloc vtg_0_video_active 1 0 3 20 1350 NJ 1350 920
+preplace netloc vtg_0_pixel_y 1 0 3 50 1340 NJ 1340 880
+preplace netloc proc_sys_reset_0_interconnect_aresetn 1 0 2 150 1260 600
+preplace netloc processing_system7_0_FIXED_IO 1 1 2 650 40 NJ
+preplace netloc axi_gpio_0_GPIO 1 1 2 NJ 80 880
+preplace netloc proc_sys_reset_0_peripheral_reset 1 0 2 140 1250 680
+preplace netloc vtg_0_hsync 1 0 3 90 1320 NJ 1320 900
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 2 70 1270 590
+levelinfo -pg 1 0 360 780 950 -top 0 -bot 1370
+",
+}
+0
